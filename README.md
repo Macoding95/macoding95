@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 
 <h2 align="center">A brief introduction 💻</h2>
-<p>Hello! I'm Miguel Angel Cerón, a passionate Front-End developer based in Cali, Colombia. I have a strong experience in creating captivating and functional web experiences, committed to developing high-quality and high-performance code. My knowledge spans a wide range of technologies such as React, ES6+, HTML5, CSS3+, NPM, and GIT, and I specialize in Mobile First development. With a deep understanding of advanced CSS, including SASS and CSS Modules, I ensure sophisticated and responsive designs, optimizing the experience across all platforms. I am a positive-minded person, focused on teamwork and delivering effective results.</p>
+<p>As a passionate Front-End developer, i have a strong experience in creating captivating and functional web experiences, committed to developing high-quality and high-performance code. My knowledge spans a wide range of technologies such as React, ES6+, HTML5, CSS3+, NPM, and GIT, and I specialize in Mobile First development. With a deep understanding of advanced CSS, including SASS and CSS Modules, I ensure sophisticated and responsive designs, optimizing the experience across all platforms. I am a positive-minded person, focused on teamwork and delivering effective results.</p>
 
 - 🔭 I’m currently working on **Viwer (Personal project)**
 
