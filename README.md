@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Viwer (Personal project)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **mac.coding95@gmail.com**
 
